@@ -1,1 +1,2 @@
-unzip complexity_prediction/datasets/dictionary_bigrams.zip -d complexity_prediction/datasets
+cd complexity_prediction/datasets
+7z x datasets.zip.001
