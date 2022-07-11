@@ -1,5 +1,5 @@
 # SimpLex: a lexical text simplification tool
-Simplex is a text simplification architecture focusing on lexical text simplification using Machine Learning and Natural Language Processing techniques.
+SimpLex is a text simplification architecture focusing on lexical text simplification using Machine Learning and Natural Language Processing techniques.
 
 # Usage
 
@@ -16,7 +16,7 @@ In order to use the simplifier, the following Python3 libraries must be installe
 
 ## Models
 Please unzip all the archives in the individual directories.
-After this is done, run the script called `setup.sh` located in the root of the project
+After this is done, run the script called `setup.sh` located in the root of the project to unzip the datasets.
 
 ## Running the simplifier manually
 The simplifier can be run in the following manner:
