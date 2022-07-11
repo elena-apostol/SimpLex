@@ -1,0 +1,8 @@
+version: '3.5'
+
+services:
+    simplex:
+        build: .
+        container_name: simplex
+        ports:
+            - 5000:5000
