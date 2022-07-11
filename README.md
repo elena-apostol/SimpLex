@@ -41,5 +41,14 @@ optional arguments:
 ```
 The input file must have exactly one sentence per line.
 
+## Running the simplifier GUI manually
+Start the ``server.py``, move to the ``gui`` directory, and start ``gui.py``:
+``
+python server.py
+cd gui
+python gui.py
+``
+
+
 ## Running the simplifier in server mode using docker
 To run the simplifier in a containerized server mode, run `docker-compose up` in the root of the project. Once this is done, you can run the SimpLex GUI by running the `/gui/gui.py` python script. If tkinter errors occur, run `apt-get install python-tk`.
