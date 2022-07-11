@@ -43,11 +43,12 @@ The input file must have exactly one sentence per line.
 
 ## Running the simplifier GUI manually
 Start the ``server.py``, move to the ``gui`` directory, and start ``gui.py``:
-``
+
+```
 python server.py
 cd gui
 python gui.py
-``
+```
 
 
 ## Running the simplifier in server mode using docker
